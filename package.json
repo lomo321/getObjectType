@@ -1,0 +1,14 @@
+{
+  "name": "getType",
+  "version": "1.0.0",
+  "description": "get type of data",
+  "main": "getType.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "bin": {
+    "getType":"bin/getType"
+  },
+  "author": "liangxiaohao",
+  "license": "ISC"
+}

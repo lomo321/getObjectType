@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+var data = process.argv.slice(2);
+
+var getType = require('../getType.js')
+
+console.log(getType.getPrimitiveDataType(data));
